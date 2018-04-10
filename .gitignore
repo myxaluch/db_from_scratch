@@ -1,2 +1,3 @@
 bin/*
-spec/output/*
+spec/db
+spec/test.db
